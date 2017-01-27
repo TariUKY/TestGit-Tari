@@ -1,1 +1,5 @@
-This is my first test file for my test Git project.  Isn't it wonderful???
+This is my first test file for my test Git project.  
+Isn't it wonderful???
+Isn't it wonderful???
+Isn't it wonderful???
+Isn't it wonderful???
